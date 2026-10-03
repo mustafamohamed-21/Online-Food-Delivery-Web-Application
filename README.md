@@ -46,10 +46,8 @@ Testing was conducted rigorously across customer-facing flows (desktop + mobile 
 
 ---
 
-## 📁 Repository Structure
+## 📂 Repository Structure
 
-```text
-├── Test_Cases.pdf             # Document 1: Full suite of 65 test cases & requirements matrix[cite: 20]
-├── Bug_Report.pdf             # Document 2: Detailed logs and reproduction steps for 18 defects[cite: 1]
-├── QA_Final_Test_Report.pdf   # Document 3: Executive summary, coverage statistics, and release risks[cite: 14]
-└── Test.jpg                   # Visual defect consolidation summary dashboard[cite: 19]
+* `/Test_Cases.pdf` : Contains the complete requirements baseline, 20 test scenarios, and 65 detailed test cases covering positive, negative, boundary, and security checks[cite: 20].
+* `/Bug_Report.pdf` : Documents all 18 logged defects (3 Critical, 6 High, 7 Medium, 2 Low) with full reproduction steps, module mapping, severity distribution, and lifecycle statuses[cite: 1].
+* `/QA_Final_Test_Report.pdf` : Provides the executive summary, test execution metrics (93.8% overall test coverage, 70.5% pass rate), risk analysis, and release recommendations[cite: 14].
